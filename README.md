@@ -127,5 +127,5 @@
 </p>
 
 <p align="center">
-  🐺 Built by a developer with a wolf mindset 👨‍💻 + a bit of humor 😂
+  🐺 Built by a developer with a wolf mindset 👨‍💻 
 </p>
